@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Publicus
+- 👀 I’m interested in decentralized consensus based democracy
+- 🌱 I’m currently learning blockchain development
+- 💞️ I’m looking to collaborate on building a digital economy
+- 📫 How to reach me publicus@tutanota.com
